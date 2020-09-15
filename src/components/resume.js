@@ -20,6 +20,12 @@ class Resume extends Component {
             </div>
 
             <h2 style={{paddingTop: '2em'}}>Saidnazar Rakhimboev</h2>
+
+              {/* Freecodecamp */}
+              <h5>My Pdf-resume</h5>
+          <a href="../Saidnazar Resume.pdf" rel="noopener noreferrer" target="_blank"> 
+            <i className="fa fa-free-code-camp" aria-hidden="true" />
+          </a>
             <h4 style={{color: 'grey'}}>Developer</h4>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             < p > The Full Stack Web Developer, San Francisco—
